@@ -1,2 +1,1 @@
-# insider-threat-detections
-Test insider threat detections from lab - includes reasoning, validation evidence, and failure modes. 
+This REPO contains behavioral detections for insider threat activity - written using the Alerting and Detection Strategy format. Each entry will document the context, detection logic, the validationj evidence, known blind spots, and guideance for responder. Detections are validated against telemetry in a lab enviornment running Splunk, Sysmon windows endpoints, and an AD domain
